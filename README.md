@@ -111,6 +111,7 @@ los usuarios de Boti sobre X?"* (otra CAT, otro organismo, otro centro).
 2. **Ver qué valores de tema existen** (query 0 de abajo) y elegir el exacto.
 3. **Correr el script con `--tema`**:
    `python Feedback_CATSIGEHOS.py --anio 2026 --meses 7 8 9 --tema <VALOR> --sin-sugerencias`
+   — si es CATSIGEHOS, no hace falta `--tema` (es el default).
 4. **Si hay tabla de referencia, pedirla al principio** y comparar mes a mes
    antes de entregar. Es lo que confirma la fórmula (ver Esfuerzo).
 5. **Aclarar el alcance al entregar**: un tema de CAT puede abarcar mucho más
