@@ -1,0 +1,6 @@
+output/
+*.csv
+*.xlsx
+__pycache__/
+*.pyc
+.spyproject/
