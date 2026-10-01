@@ -66,7 +66,7 @@ Esfuerzo        = (1·Muy fácil + 2·Fácil + 4·Difícil + 5·Muy difícil) /
 
 ```powershell
 aws-azure-login --profile default --mode=gui    # rol PIBADataScientist
-cd C:\GCBA\Feedback_CEDETAC
+cd C:\GCBA\Feedback_CATSIGEHOS
 python Feedback_CATSIGEHOS.py --anio 2026 --meses 7 8 9 --sin-sugerencias
 ```
 
